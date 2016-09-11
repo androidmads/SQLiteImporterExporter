@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteExporterImporter</string>
+    <string name="import_db_from_assets">Import DB From Assets</string>
+    <string name="import_db_from_ext">Import DB From External Storage</string>
+    <string name="export_db_to_ext">Export DB To External Storage</string>
+    <string name="check">Check</string>
+</resources>
